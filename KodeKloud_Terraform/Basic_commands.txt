@@ -7,3 +7,5 @@ terraform apply
 terraform apply -auto-approve
 
 terraform show    ##########inspet state file
+
+terraform providers    ##########The terraform providers command shows information about the provider requirements of the configuration in the current working directory
