@@ -1,0 +1,9 @@
+terraform init    #####initialise
+
+terraform plan
+
+terraform apply
+
+terraform apply -auto-approve
+
+terraform show    ##########inspet state file
