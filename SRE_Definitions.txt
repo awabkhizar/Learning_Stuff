@@ -1,0 +1,7 @@
+SLE: A service-level agreement is a commitment between a service provider and a customer.
+
+SLO: An SLO (service level objective) is an agreement within an SLA about a specific metric like uptime or response time
+
+Observability: it is the ability to monitor a system's current state based on the data it produces, such as logs, metrics, and traces. Or in other words, observability refers to its ability to discern internal states by looking at the output over a finite period.
+
+Error Budget: it can be measured in relation to availability or uptime, both of which are defined by a company's Service Level Objective (SLO). In other words, an error budget is 1 minus the SLO of the service. A 99.9% SLO service has a 0.1% error budget.
