@@ -9,3 +9,6 @@ terraform apply -auto-approve
 terraform show    ##########inspet state file
 
 terraform providers    ##########The terraform providers command shows information about the provider requirements of the configuration in the current working directory
+
+terraform apply -var "variable name and value"  
+e.g terraform apply -var "ami=ami-0deaf23wsddawva21c2sa" -var "instance_type=t2.micro"
